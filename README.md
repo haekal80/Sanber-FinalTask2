@@ -1,4 +1,4 @@
-# sanber-mobileAutomation
+# Sanber Final Test 2 -mobileAutomation
 
 How to Start
 
