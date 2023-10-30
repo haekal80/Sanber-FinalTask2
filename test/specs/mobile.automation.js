@@ -1,7 +1,5 @@
 import WelcomePage from "../pageobjects/welcome.page"
 
-// let welcomePage = new WelcomePage()
-
 describe('Welcome pages',() => {
     let name = 'haekal'
     let weight = 60
